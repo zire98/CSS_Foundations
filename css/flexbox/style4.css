@@ -1,16 +1,19 @@
+body {
+    text-align: center;
+}
+
 .title {
-    display: flex;
-    justify-content: center;
     margin-bottom: 32px;
 }
 
 .container {
     display: flex;
     gap: 52px;
+    justify-content: center;
 }
 
 img {
-    width: 200px;
+    width: 100px;
     height: auto;
 }
 
